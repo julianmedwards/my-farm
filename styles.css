@@ -38,3 +38,10 @@ body {
 .barn-fence {
     height: 50px;
 }
+
+#farmhouse {
+    position: absolute;
+    height: 100px;
+    top: 200px;
+    left: 440px;
+}
