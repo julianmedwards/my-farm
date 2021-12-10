@@ -65,3 +65,12 @@ body {
     top: 435px;
     height: 145px;
 }
+
+/* Animals */
+
+#farmer {
+    position: absolute;
+    left: 550px;
+    top: 275px;
+    height: 35px;
+}
