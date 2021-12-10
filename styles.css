@@ -1,7 +1,23 @@
 body {
-  margin: 0;
-  height: 844px;
-  width: 1500px;
-  background-image: url("img/field-of-grass.jpg");
-  background-repeat: no-repeat;
+    margin: 0;
+    height: 844px;
+    width: 1500px;
+    background-image: url('img/field-of-grass.jpg');
+    background-repeat: no-repeat;
+}
+
+/* Buildings */
+
+#coop {
+    position: fixed;
+    top: 300px;
+    left: 20px;
+    height: 75px;
+}
+
+#farmhouse {
+    position: fixed;
+    height: 250px;
+    bottom: 400px;
+    left: 975px;
 }
