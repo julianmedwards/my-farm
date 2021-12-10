@@ -68,6 +68,20 @@ body {
 
 /* Animals */
 
+#chicken-left {
+    position: absolute;
+    top: 360px;
+    left: 65px;
+    height: 20px;
+}
+
+#chicken-right {
+    position: absolute;
+    top: 360px;
+    left: 110px;
+    height: 20px;
+}
+
 #farmer {
     position: absolute;
     left: 550px;
